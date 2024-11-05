@@ -1,7 +1,6 @@
 {
-  "name": "@stanfordbdhg/spezi-web-design-system",
+  "name": "@stanfordspezi/spezi-web-design-system",
   "version": "0.1.0",
-  "private": true,
   "description": "Stanford Biodesign Digital Health Spezi Web Design System",
   "keywords": [
     "Stanford",
@@ -15,6 +14,10 @@
     "type": "git",
     "url": "https://github.com/StanfordSpezi/spezi-web-design-system"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "license": "MIT",
   "exports": {
     ".": {
